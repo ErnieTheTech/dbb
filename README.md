@@ -8,7 +8,7 @@ TCL 50" 4K TV<br>
 16GB SD Card<br>
 Case with Fan https://www.microcenter.com/product/610384/micro-connectors-acrylic-stackable-raspberry-pi-4-case-with-power-adapter-and-fan
 
-Software:
+Software:<br>
 YoDeck https://www.yodeck.com/
 
 

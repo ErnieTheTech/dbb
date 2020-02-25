@@ -8,6 +8,6 @@ TCL 50" 4K TV
 
 
 
-![alt text](TV1.jpg "Box 1")
+![alt text](TV1.JPEG "Box 1")
 ![alt text](PI.JPEG "Box 1")
 
